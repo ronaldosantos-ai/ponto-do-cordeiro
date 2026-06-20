@@ -1,0 +1,9 @@
+{
+  "name": "ponto-do-cordeiro",
+  "version": "0.1.0",
+  "description": "App de gestão para ovinocultura",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  }
+}
